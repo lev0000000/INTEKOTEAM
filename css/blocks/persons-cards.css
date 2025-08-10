@@ -5,7 +5,7 @@
   gap: 30px;
 }
 
-.persons-card__items {
+.persons-cards__items {
   display: flex;
   flex-direction: column;
   width: 48.700%;
