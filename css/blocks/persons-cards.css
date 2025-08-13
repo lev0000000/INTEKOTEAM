@@ -6,13 +6,10 @@
 }
 
 .persons-cards__items {
-  display: flex;
-  flex-direction: column;
   width: 48.700%;
   border-radius: 20px;
   background-color: #F2F3EE;
   margin: 0;
   padding: 30px;
-  gap: 20px;
 }
 
